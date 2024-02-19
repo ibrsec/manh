@@ -228,7 +228,10 @@ section.opinion{
 }
 }
 @media(max-width:575px){
-
+    .logo{
+        width: 50px
+        
+        }
     
 .inspection-section .container{ 
     position: unset;
