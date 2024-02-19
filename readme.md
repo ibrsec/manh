@@ -65,9 +65,9 @@
 
 ## Figma 
 
-<a href="https://www.figma.com/file/u6yDzYGrWK44HfawC68xqg/any-hompage?type=design&node-id=0%3A1&mode=design&t=Cr3mJUcgrjAxltmP-1">Figma Link</a> -->
+<a href="https://www.figma.com/file/u6yDzYGrWK44HfawC68xqg/any-hompage?type=design&node-id=0%3A1&mode=design&t=Cr3mJUcgrjAxltmP-1">Figma Link</a>
 
-<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ---
