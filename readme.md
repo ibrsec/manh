@@ -15,7 +15,7 @@
     <a href="https://github.com/ibrsec/any-homepage"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ibrsec.github.io/any-homepage/">View Demo</a>
+    <a href="https://any-homepage.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/ibrsec/any-homepage/issues">Report Bug</a>
     ·
@@ -55,7 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![any-homepage](./img/p.gif)](https://ibrsec.github.io/any-homepage/)
+[![any-homepage](./img/p.gif)](https://any-homepage.vercel.app/)
 
 
 
